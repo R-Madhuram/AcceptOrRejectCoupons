@@ -11,7 +11,7 @@ Would weather impact the rate of acceptance? What about the time of day?
 Summary of Findings:
 
 After the inital data cleaning, analysis was carried out to answer specific questions about the data using both 
-visualizations and numerical analysis.(present in Jupyter Notebook)
+visualizations and numerical analysis.(present in Jupyter Notebook: "https://github.com/R-Madhuram/AcceptOrRejectCoupons/blob/main/prompt.ipynb")
 
 1. People who went to bar more than three times a month were almost twice more likely to use the bar coupon 
 compared to people who went to bar less than three times a month to bar when both the populations 
